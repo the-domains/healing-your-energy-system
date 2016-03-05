@@ -1,0 +1,28 @@
+name: Healing Your Energy System
+favicon: null
+layout_spectrum: 0.6886912323534489
+typography_spectrum: 0.5134197860024869
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7781939501874149
+  lightness: 0.8808076598215848
+  saturation: 0.04504167637787759
+  rhythmicContrast: 0.05478162947110832
+purpose: []
