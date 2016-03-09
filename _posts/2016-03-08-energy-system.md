@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Yet other cultures have known and taught about our energy system since before European-American civilization began. \_We have texts from China that map channels of the energy system that are more than two thousand years old!"
-datePublished: '2016-03-09T03:28:46.074Z'
-dateModified: '2016-03-09T03:27:32.566Z'
+datePublished: '2016-03-09T03:48:14.313Z'
+dateModified: '2016-03-09T03:32:19.468Z'
 title: "Energy System? \_"
 author: []
 sourcePath: _posts/2016-03-08-energy-system.md
@@ -49,21 +49,16 @@ So what is the difference between that freshly pulled carrot and the one that ha
 
 The differences between a healthy body, a sick body, and a dead body are the amounts of life force energy that are in the cells.
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ab4c829b37d76f8ea24010d0e2349bc3/passthrough.jpg?height=259&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fa71c1203bd6910f0a6ee293c02bc84c4153a308c.jpg&width=194)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cc84eef-f38c-4398-8c22-6ea52249ff20.jpg)
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/22e481a9886a706aa62ab371df0827e6/passthrough.jpg?height=145&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fb42bc8e21ed44cc1011ae29a4939f5afb3720ef9.jpg&width=229)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b42bc8e21ed44cc1011ae29a4939f5afb3720ef9.jpg)
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/585807f68c28f8e0f68a9212346163f3/passthrough.jpg?height=126&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fa07c7fc710661fe46a5a8a753d41d3ea3ab8a65e.jpg&width=318)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e1b5937-3e3d-42a6-80ee-a4ee91911a08.jpg)
 
 The body's energy system is complex and has many components.  Many people are now aware of the chakras (a Sanskrit word that means "wheel")  There are seven primary chakras, situated in the spine, and many secondary chakras.  Large amounts of life force energy enter these centers in spinning vortices.  These are the main entrance point for the life force into our bodies.
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8608ba9fa596586ae6dacafa8557de86/passthrough.jpg?height=312&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F9be3a46b8885d48e64d69650acab7fe5931addd0.jpg&width=472)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b669cd90-21c7-4e58-8e45-87a2741018cc.jpg)
 
 There is another system of energy distribution is known as the Nadi Network.  Some ancients texts from India state that there 72000 nadis.  Others report up to 350,000 of these channels!  Of these, there are three that are primary.  One goes up the middle of the spinal column and there is one that travels on each side of the spine.
 
 The Meridian System and the Nadi Network don't have a physical manifestation.  No one can dissect a body and find them in the way that you can find blood vessels and nerves.  The channels themselves are made of subtle energy.  You might think of them more as currents of energy than as tubes that carry energy.
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5bebe68928662c42af3f6d2f03736cb4/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fce67987e53b9f324a8791225c5b89135cb2f6bfd.jpg&width=556)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60c61d52-94c9-42ff-8740-e9c6dc58b315.jpg)
 
 Western researchers attempting to understand how acupuncture works have found that connective tissues conduct both electrical energy and biophotons.  Yes, that's right, light particles actually circulate in some of the connective tissues.  This occurs in collagen fibers that have been found to be hollow.  In other words, the body has it's own fiber optic system!
 
