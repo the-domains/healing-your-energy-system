@@ -6,24 +6,24 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Yet other cultures have known and taught about our energy system since before European-American civilization began. \_We have texts from China that map channels of the energy system that are more than two thousand years old!"
-datePublished: '2016-03-08T23:41:18.067Z'
-dateModified: '2016-03-08T23:38:41.918Z'
+datePublished: '2016-03-09T00:40:58.809Z'
+dateModified: '2016-03-09T00:39:23.993Z'
 title: "Energy System? \_"
 author: []
+sourcePath: _posts/2016-03-08-energy-system.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-energy-system.md
-published: true
 url: energy-system/index.html
 _type: WebPage
 
 ---
 ## Energy System?  I didn't know I had one!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b80be542-1849-4128-a943-be70094f84a0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec4266b443df30187553486ccc22f45a5e0c3774.jpg)
 
 If you were born and raised in a Western culture it is not surprising that you know little about your own body's energy system.  The subject is not taught in schools and the fact that we have a very definite energy system is not recognized by conventional, allopathic medicine.
 
