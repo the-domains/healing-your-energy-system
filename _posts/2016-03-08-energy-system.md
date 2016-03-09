@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Yet other cultures have known and taught about our energy system since before European-American civilization began. \_We have texts from China that map channels of the energy system that are more than two thousand years old!"
-datePublished: '2016-03-09T01:53:36.617Z'
-dateModified: '2016-03-09T01:52:29.444Z'
+datePublished: '2016-03-09T02:41:42.261Z'
+dateModified: '2016-03-09T02:41:21.558Z'
 title: "Energy System? \_"
 author: []
 sourcePath: _posts/2016-03-08-energy-system.md
@@ -49,7 +49,7 @@ So what is the difference between that freshly pulled carrot and the one that ha
 
 The differences between a healthy body, a sick body, and a dead body are the amounts of life force energy that are in the cells.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cc84eef-f38c-4398-8c22-6ea52249ff20.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b323c9e9-23f6-411e-a3c7-ac42c590d088.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b42bc8e21ed44cc1011ae29a4939f5afb3720ef9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e1b5937-3e3d-42a6-80ee-a4ee91911a08.jpg)
 
 ## The components of the energy system
