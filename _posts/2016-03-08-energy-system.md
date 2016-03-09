@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Yet other cultures have known and taught about our energy system since before European-American civilization began. \_We have texts from China that map channels of the energy system that are more than two thousand years old!"
-datePublished: '2016-03-09T02:45:18.953Z'
-dateModified: '2016-03-09T02:44:52.726Z'
+datePublished: '2016-03-09T02:57:41.303Z'
+dateModified: '2016-03-09T02:51:03.670Z'
 title: "Energy System? \_"
 author: []
 sourcePath: _posts/2016-03-08-energy-system.md
@@ -30,7 +30,7 @@ If you were born and raised in a Western culture it is not surprising that you k
 Yet other cultures have known and taught about our energy system since before European-American civilization began.  We have texts from China that map channels of the energy system that are more than two thousand years old!
 
 Ancient literature from China, India and Tibet describe the structures and functions of various aspects of the energy system in colorful detail.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a99b8932c889c81161736b83d3ec61b321c40a32.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c65ec02-b96f-478d-ab6f-82b8a0b44c72.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/087943068869ce77ac3814c044e8d8572a6cbe2d.jpg)
 
 ## What does the energy system do?
