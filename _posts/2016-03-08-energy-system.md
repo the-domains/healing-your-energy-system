@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Yet other cultures have known and taught about our energy system since before European-American civilization began. \_We have texts from China that map channels of the energy system that are more than two thousand years old!"
-datePublished: '2016-08-29T00:40:33.596Z'
-dateModified: '2016-08-29T00:40:32.835Z'
+datePublished: '2016-08-29T00:40:35.541Z'
+dateModified: '2016-08-29T00:40:35.133Z'
 title: "Energy System? \_I didn't know I had one!"
 author:
   - name: ''
@@ -15,7 +15,7 @@ sourcePath: _posts/2016-03-08-energy-system.md
 via: {}
 authors: []
 publisher: {}
-starred: true
+starred: false
 url: energy-system/index.html
 _type: WebPage
 
